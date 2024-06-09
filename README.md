@@ -11,3 +11,5 @@ systemic or occasional differences found in the data set.
 How to use:
 Install Jupyter Notebook to open the notebooks attached, the following libraries will be used are: Numpy, Pandas, Datetime, matplotlib.pyplot, scipy.stats
 
+ADS4SJ.jpyn contains the nessary analytic steps for my analysis
+ADS4SJ_cleaning contains the data cleaning steps
